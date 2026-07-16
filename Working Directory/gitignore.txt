@@ -145,3 +145,4 @@ evidence-local/
 # tracked in this workshop:
 # *.docx, *.pptx, *.xlsx, *.pdf, *.txt, *.csv, *.md
 # ------------------------------------------------------------
+shilpaignore.txt
